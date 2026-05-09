@@ -1,0 +1,4 @@
+Tenure (Months),Monthly Charges ($),Contract Type,AI-Generated Customer Narrative,Predicted Risk Level,Natural Language Explanation,flag,timestamp
+12,95,Month-to-Month,This New client is a High-paying customer on a Month-to-Month contract.,Critical Risk,Extremely high monthly charges are causing significant price dissatisfaction.,Correct Prediction,2026-03-26 22:07:42.125511
+7.4,97,Month-to-Month,This New client is a High-paying customer on a Month-to-Month contract.,Critical Risk,Extremely high monthly charges are causing significant price dissatisfaction.,Correct Prediction,2026-05-05 17:58:25.112485
+19.7,30,Two-Year,This New client is a Low-paying customer on a Two-Year contract.,Low Risk,The customer shows high loyalty and stable pricing.,Correct Prediction,2026-05-09 02:55:06.143504
