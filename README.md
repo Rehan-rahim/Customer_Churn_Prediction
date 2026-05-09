@@ -14,8 +14,8 @@
 
 ## 👥 Group Members
 
-| # | Name | Student ID |
-|---|---|---|
+| # | Name |
+|---|---|
 | 1 | [Rehan Ali] 
 | 2 | [Rasagyna Peddapalli]
 | 3 | [Utkarsh Choudhary]
