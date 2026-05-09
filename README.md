@@ -103,18 +103,18 @@ customer-churn-prediction/
 │   └── telco_customer_churn.csv       # IBM Telco Dataset (7,043 records)
 │
 ├── notebooks/
-│   ├── 01_data_ingestion.ipynb        # Phase 1: Loading & Inspection
-│   ├── 02_preprocessing_eda.ipynb     # Phase 2: Cleaning & EDA
-│   ├── 03_random_forest.ipynb         # Phase 3: Supervised Learning
-│   └── 04_bert_augmentation.ipynb     # Phase 4: BERT Embeddings & Risk Tiers
+│   ├── 01_Data_Ingestion_and_Inspection.ipynb        # Phase 1: Loading & Inspection
+│   ├── 02_Customer_Churn_EDA_and_Preprocessing.ipynb     # Phase 2: Cleaning & EDA
+│   ├── 03_Customer_Churn_Modeling_and_Evaluation.ipynb         # Phase 3: Machine Learning Models
+│   └── 04_Customer_Churn_GenAI_and_Analysis.ipynb     # Phase 4: BERT Embeddings & Risk Tiers
 │
 ├── app/
 │   ├── gradio_app.py                  # Interactive Customer Assessment Tool
-│   └── streamlit_dashboard.py         # Business Intelligence Dashboard
+│ 
 │
 ├── models/
-│   ├── random_forest_model.pkl        # Saved RF Classifier
-│   └── bert_embeddings/               # Cached BERT Embedding Outputs
+│   ├── churn_model_dt.pkl        # Saved Decision Tree Classifier
+│   └──churn_model_rf.pkl         # Saved Random Forest Classifier
 │
 ├── requirements.txt
 └── README.md
