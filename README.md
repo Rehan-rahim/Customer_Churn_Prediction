@@ -7,7 +7,7 @@
 | Field | Details |
 |---|---|
 | **Professor** | Syed Jawad Shah |
-| **Course** | [Principle of Data Science] |
+| **Course** | Principle of Data Science |
 | **Institution** | University of Missouri-Kansas City |
 
 ---
@@ -16,10 +16,10 @@
 
 | # | Name |
 |---|---|
-| 1 | [Rehan Ali]
-| 2 | [Rasagyna Peddapalli]
-| 3 | [Utkarsh Choudhary]
-| 4 | [Yashwanth Nanjuti]
+| 1 | Rehan Ali
+| 2 | Rasagyna Peddapalli
+| 3 | Utkarsh Choudhary
+| 4 | Yashwanth Nanjuti
 
 ---
 
