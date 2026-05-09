@@ -16,7 +16,7 @@
 
 | # | Name |
 |---|---|
-| 1 | [Rehan Ali] 
+| 1 | [Rehan Ali]
 | 2 | [Rasagyna Peddapalli]
 | 3 | [Utkarsh Choudhary]
 | 4 | [Yashwanth Nanjuti]
